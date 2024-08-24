@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\models\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\models\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yelka\\source\\repos\\ecommerceApi\\ecommerceApi\\Migrations\\20240824092825_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|c:\\users\\yelka\\desktop\\test\\ecommerceapi\\ecommerceapi\\migrations\\20240824093931_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA052F-2BE2-4527-B030-17961000B1BC}|ecommerceApi\\ecommerceApi.csproj|solutionrelative:ecommerceapi\\migrations\\20240824093931_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "ecommerceApi\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:21:00.19Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ecommerceApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAApwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:16:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Program.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Program.cs",
+              "RelativeToolTip": "ecommerceApi\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:17:52.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ecommerceApi\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:19:13.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Models\\Category.cs",
+              "RelativeToolTip": "ecommerceApi\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:18:37.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Models\\Product.cs",
+              "RelativeToolTip": "ecommerceApi\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:18:24.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "ecommerceApi\\Dtos\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:21:10.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ecommerceApi\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:00:18.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ecommerceApi\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:01:09.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "ecommerceApi\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:18:56.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "ecommerceApi\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:19:49.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "ecommerceApi\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:19:34.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ecommerceApi\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:18:12.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Models\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Models\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Models\\ProductRequest.cs",
+              "RelativeToolTip": "ecommerceApi\\Models\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:03:11.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240824092825_test.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\source\\repos\\ecommerceApi\\ecommerceApi\\Migrations\\20240824092825_test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\ecommerceApi\\ecommerceApi\\Migrations\\20240824092825_test.cs",
+              "ToolTip": "C:\\Users\\yelka\\source\\repos\\ecommerceApi\\ecommerceApi\\Migrations\\20240824092825_test.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\ecommerceApi\\ecommerceApi\\Migrations\\20240824092825_test.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T09:28:25.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240824093931_test.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Migrations\\20240824093931_test.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Migrations\\20240824093931_test.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Migrations\\20240824093931_test.cs",
+              "RelativeToolTip": "ecommerceApi\\Migrations\\20240824093931_test.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T09:39:31.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ecommerceApi\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:00:53.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ecommerceApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\appsettings.json",
+              "RelativeToolTip": "ecommerceApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T19:42:22.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\MappingProfiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ecommerceApi\\MappingProfiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\MappingProfiles\\MappingProfile.cs",
+              "RelativeToolTip": "ecommerceApi\\MappingProfiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:21:45.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ecommerceApi.csproj",
+              "DocumentMoniker": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\ecommerceApi.csproj",
+              "RelativeDocumentMoniker": "ecommerceApi\\ecommerceApi.csproj",
+              "ToolTip": "C:\\Users\\yelka\\Desktop\\test\\ecommerceApi\\ecommerceApi\\ecommerceApi.csproj",
+              "RelativeToolTip": "ecommerceApi\\ecommerceApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T19:17:19.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

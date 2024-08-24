@@ -1,0 +1,172 @@
+.container {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.rightSide {
+  flex: 1;
+}
+.calculateContainer {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+  font-size: 14px;
+  font-weight: 500;
+  color: #868686;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.05);
+}
+.calculateContainer h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+}
+.calculateContainer ul {
+  margin-top: 20px;
+}
+.calculateContainer ul li {
+  display: flex;
+  justify-content: space-between;
+}
+.hr {
+  border-bottom: 1px solid #ccc;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.totalText {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+}
+.button {
+  margin-top: 1rem;
+  background-color: #ff5252;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+}
+.buttonDis {
+  margin-top: 1rem;
+  background-color: #969696;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+}
+.leftSide {
+  flex: 4;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.05);
+}
+.item {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  overflow: hidden;
+}
+.item:last-child {
+  border-bottom: none;
+}
+.image {
+  width: 70px;
+  height: 70px;
+}
+.image img {
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.detail {
+  padding-left: 2rem;
+  flex: 3;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.pLeft {
+  padding-left: 2rem;
+  flex: 3;
+}
+.name {
+  font-weight: 500;
+  font-size: 17px;
+}
+.description {
+  color: #b4b4b4;
+  font-size: 15px;
+  font-weight: 300;
+}
+.checkbox {
+  flex: 1;
+  border: 1px solid #ccc;
+  width: 20px;
+  height: 20px;
+}
+.number {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.decrease {
+  border: 1px solid #ccc;
+  background-color: #f3f3f3;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.increase {
+  border: 1px solid #ccc;
+  background-color: #f3f3f3;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.nInput {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+}
+.price {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  color: #ff5252;
+  font-weight: 500;
+  font-size: 18px;
+}
+.center {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  padding: 1rem;
+  font-weight: 700;
+}
+.remove {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  color: #ff5252;
+  cursor: pointer;
+}

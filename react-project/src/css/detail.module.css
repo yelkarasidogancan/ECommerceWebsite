@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  gap: 1rem;
+}
+.image {
+  flex: 1;
+  height: 100px;
+}
+.img {
+  width: 100%;
+  background-repeat: no-repeat; /* Resmi yineler */
+  object-fit: cover;
+  position: relative;
+}
+.detailContainer {
+  flex: 1;
+}
+.description {
+  margin-top: 1rem;
+  color: #a4a4a4;
+  word-spacing: 6px;
+}
+.price {
+  margin-top: 1rem;
+}
+.button {
+  margin-top: 2rem;
+  background-color: red;
+  padding: 1rem;
+  color: white;
+  font-weight: 600;
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "price": 20,
+    "quantity": 1,
+    "description": "Comfortable cotton T-Shirt available in various sizes and colors.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 1
+  },
+  {
+    "id": 2,
+    "name": "Jeans",
+    "price": 40,
+    "quantity": 1,
+    "description": "Stylish denim jeans with a modern fit, perfect for casual wear.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 1
+  },
+  {
+    "id": 3,
+    "name": "Sneakers",
+    "price": 60,
+    "quantity": 1,
+    "description": "Comfortable and durable sneakers, suitable for daily activities.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 1
+  },
+  {
+    "id": 4,
+    "name": "Hat",
+    "price": 15,
+    "quantity": 1,
+    "description": "A stylish hat to complement your outfit.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 1
+  },
+  {
+    "id": 5,
+    "name": "Jacket",
+    "price": 100,
+    "quantity": 1,
+    "description": "Warm and stylish jacket for colder weather.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 1
+  },
+  {
+    "id": 6,
+    "name": "T-Shirt",
+    "price": 20,
+    "quantity": 1,
+    "description": "Comfortable cotton T-Shirt available in various sizes and colors.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 2
+  },
+  {
+    "id": 7,
+    "name": "Jeans",
+    "price": 40,
+    "quantity": 1,
+    "description": "Stylish denim jeans with a modern fit, perfect for casual wear.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 2
+  },
+  {
+    "id": 8,
+    "name": "Sneakers",
+    "price": 60,
+    "quantity": 1,
+    "description": "Comfortable and durable sneakers, suitable for daily activities.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 2
+  },
+  {
+    "id": 9,
+    "name": "Hat",
+    "price": 15,
+    "quantity": 1,
+    "description": "A stylish hat to complement your outfit.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 2
+  },
+  {
+    "id": 10,
+    "name": "Jacket",
+    "price": 100,
+    "quantity": 1,
+    "description": "Warm and stylish jacket for colder weather.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 2
+  },
+  {
+    "id": 11,
+    "name": "T-Shirt",
+    "price": 20,
+    "quantity": 1,
+    "description": "Comfortable cotton T-Shirt available in various sizes and colors.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 3
+  },
+  {
+    "id": 12,
+    "name": "Jeans",
+    "price": 40,
+    "quantity": 1,
+    "description": "Stylish denim jeans with a modern fit, perfect for casual wear.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 3
+  },
+  {
+    "id": 13,
+    "name": "Sneakers",
+    "price": 60,
+    "quantity": 1,
+    "description": "Comfortable and durable sneakers, suitable for daily activities.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 3
+  },
+  {
+    "id": 14,
+    "name": "Hat",
+    "price": 15,
+    "quantity": 1,
+    "description": "A stylish hat to complement your outfit.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 4
+  },
+  {
+    "id": 15,
+    "name": "Jacket",
+    "price": 100,
+    "quantity": 1,
+    "description": "Warm and stylish jacket for colder weather.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 4
+  },
+  {
+    "id": 16,
+    "name": "T-Shirt",
+    "price": 20,
+    "quantity": 1,
+    "description": "Comfortable cotton T-Shirt available in various sizes and colors.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 4
+  },
+  {
+    "id": 17,
+    "name": "Jeans",
+    "price": 40,
+    "quantity": 1,
+    "description": "Stylish denim jeans with a modern fit, perfect for casual wear.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 4
+  },
+  {
+    "id": 18,
+    "name": "Sneakers",
+    "price": 60,
+    "quantity": 1,
+    "description": "Comfortable and durable sneakers, suitable for daily activities.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 4
+  },
+  {
+    "id": 19,
+    "name": "Hat",
+    "price": 15,
+    "quantity": 1,
+    "description": "A stylish hat to complement your outfit.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 20,
+    "name": "Jacket",
+    "price": 100,
+    "quantity": 1,
+    "description": "Warm and stylish jacket for colder weather.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 21,
+    "name": "T-Shirt",
+    "price": 20,
+    "quantity": 1,
+    "description": "Comfortable cotton T-Shirt available in various sizes and colors.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 22,
+    "name": "Jeans",
+    "price": 40,
+    "quantity": 1,
+    "description": "Stylish denim jeans with a modern fit, perfect for casual wear.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 23,
+    "name": "Sneakers",
+    "price": 60,
+    "quantity": 1,
+    "description": "Comfortable and durable sneakers, suitable for daily activities.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 24,
+    "name": "Hat",
+    "price": 15,
+    "quantity": 1,
+    "description": "A stylish hat to complement your outfit.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 25,
+    "name": "Jacket",
+    "price": 100,
+    "quantity": 1,
+    "description": "Warm and stylish jacket for colder weather.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 26,
+    "name": "T-Shirt",
+    "price": 20,
+    "quantity": 1,
+    "description": "Comfortable cotton T-Shirt available in various sizes and colors.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 27,
+    "name": "Jeans",
+    "price": 40,
+    "quantity": 1,
+    "description": "Stylish denim jeans with a modern fit, perfect for casual wear.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 28,
+    "name": "Sneakers",
+    "price": 60,
+    "quantity": 1,
+    "description": "Comfortable and durable sneakers, suitable for daily activities.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 29,
+    "name": "Hat",
+    "price": 15,
+    "quantity": 1,
+    "description": "A stylish hat to complement your outfit.",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  },
+  {
+    "id": 30,
+    "name": "Jacket",
+    "price": 100,
+    "quantity": 1,
+    "description": "Warm and stylish jacket for colder weather.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 5
+  }
+]
